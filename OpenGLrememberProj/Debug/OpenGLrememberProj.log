@@ -1,0 +1,12 @@
+﻿  GUItextRectangle.cpp
+  MyOGL.cpp
+  Object.cpp
+  OpenGLrememberProj.cpp
+  Primitives.cpp
+  PrimitivesStatic.cpp
+  Render.cpp
+  Создание кода...
+C:\Users\Test\Desktop\labochki\Computernaya grafica\grafika_lab2-master\OpenGLrememberProj\Render.cpp(117,31): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\Test\Desktop\labochki\Computernaya grafica\grafika_lab2-master\OpenGLrememberProj\Render.cpp(117,40): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\Test\Desktop\labochki\Computernaya grafica\grafika_lab2-master\OpenGLrememberProj\Render.cpp(117,49): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+  OpenGLrememberProj.vcxproj -> C:\Users\Test\Desktop\labochki\Computernaya grafica\grafika_lab2-master\Debug\OpenGLrememberProj.exe
